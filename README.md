@@ -34,10 +34,10 @@ CS-F425-Assignment/
 
 Authors
 
-Naman Bhatia
-Arul Bhardwaj
-Medhansh Kumar
-Tanay Kulkarni 
+Naman Bhatia,
+Arul Bhardwaj,
+Medhansh Kumar,
+Tanay Kulkarni and
 Shrey Gupta
 
 ---
