@@ -2,11 +2,11 @@
 
 This repository contains a custom implementation of the **Kolmogorov–Arnold Networks (KAN)**, based on the paper _["Kolmogorov–Arnold Networks" (arXiv:2401.01416)](https://arxiv.org/abs/2401.01416)_. The KAN model introduces a novel neural network architecture that replaces traditional neuron-based activations with **grid-based spline interpolations**, enabling better interpretability, efficiency, and flexibility.
 
-> 📌 This project was done as part of the CS F425 - Deep Learning course project.
+>  This project was done as part of the CS F425 - Deep Learning course project.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 CS-F425-Assignment/
@@ -22,13 +22,13 @@ CS-F425-Assignment/
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ **KAN Layers** with B-spline interpolation for neuron-free computation
-- ✅ **Weight pruning** and **activation regularization** support
-- ✅ Configurable architecture via external config files
-- ✅ Easy-to-run experiments on synthetic and real-world datasets
-- ✅ Clean, modular codebase for extensibility
+- **KAN Layers** with B-spline interpolation for neuron-free computation
+- **Weight pruning** and **activation regularization** support
+- Configurable architecture via external config files
+- Easy-to-run experiments on synthetic and real-world datasets
+- Clean, modular codebase for extensibility
 
 ---
 
@@ -43,7 +43,7 @@ Shrey Gupta
 ---
 
 
-## 📚 Reference
+## Reference
 
 Original paper:  
 [Kolmogorov–Arnold Networks (arXiv:2401.01416)](https://arxiv.org/abs/2401.01416)  
@@ -55,7 +55,7 @@ https://github.com/KindXiaoming/pykan
 
 ---
 
-## ⭐ Acknowledgements
+## Acknowledgements
 
 - The original KAN authors for their insightful research
 - Course instructors **Prof Tanmay Tulsidas Verlekar** (https://www.bits-pilani.ac.in/goa/tanmay-tulsidas-verlekar) and TAs for guidance on the project
