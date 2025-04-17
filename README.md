@@ -1,6 +1,6 @@
 # Kolmogorov–Arnold Networks (KAN) - Reimplementation
 
-This repository contains a custom implementation of the **Kolmogorov–Arnold Networks (KAN)**, based on the paper _["Kolmogorov–Arnold Networks" (arXiv:2401.01416)](https://arxiv.org/abs/2401.01416)_. The KAN model introduces a novel neural network architecture that replaces traditional neuron-based activations with **grid-based spline interpolations**, enabling better interpretability, efficiency, and flexibility.
+This repository contains a custom implementation of the **Kolmogorov–Arnold Networks (KAN)**, based on the paper _["Kolmogorov–Arnold Networks" (arXiv:2401.01416)]([https://arxiv.org/abs/2401.01416](https://arxiv.org/abs/2404.19756))_. The KAN model introduces a novel neural network architecture that replaces traditional neuron-based activations with **grid-based spline interpolations**, enabling better interpretability, efficiency, and flexibility.
 
 >  This project was done as part of the CS F425 - Deep Learning course project.
 
